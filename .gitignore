@@ -127,3 +127,5 @@ customer_service_reps
 engagement
 *.xlsx
 subscribers
+*.csv
+*.twb
